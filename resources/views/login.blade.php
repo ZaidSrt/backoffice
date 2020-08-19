@@ -12,6 +12,7 @@
             <span class="text-light  mr-5 pt-2">Administrador de contenido</span>
 
 
+
         </span>
         <hr class="bg-light mb-1 pt-0 ml-3 mr-3 mt-2 " />
         <div class="login-container ">
